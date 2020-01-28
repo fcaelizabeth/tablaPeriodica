@@ -1,0 +1,151 @@
+*{
+     /*border: dashed black 1px;*/
+}
+.body{
+	
+}
+.horizontal{
+	border: dashed white 1px;
+    vertical-align: top;
+    width: 100%;
+    height: 50px;
+    display: inline-block;
+	color:red;
+}
+
+.total{
+    display: inline-block;
+	width: 85%;
+    margin-left: 8%;
+	
+}
+.contenedorazul{
+    width: 11%;
+    display: inline-block;
+}
+.contenedorrosado{
+	width: 50%;
+    display: inline-block;
+    margin-right: -1%;
+	margin-left:2%;
+}
+.contenedoramarillo{
+    width: 32%;
+    display: inline-block;
+}
+.contenedorverde{
+	width: 80%;
+    height: 250px;
+    display: inline-block;
+    margin-left: 8%;
+    margin-top: 3%;
+}
+.contenedoramarillo2 {
+    display: inline-block;
+}
+.contenedorazul2 {
+    display: inline-block;
+}
+.contenedorrojo2 {
+    display: inline-block;
+	
+}
+.contenedorverde2 {
+    display: inline-block;
+}
+.rosado {
+ display: inline-block;
+}
+.verde{
+	display:inline-block;
+}
+.azulnone{
+    display: none;
+}
+.amarillonone{
+    display: none;
+}
+div.rojo{
+	width: 30px;
+    height: 60px;
+    border: dashed white 1px;
+}
+div.azul, .azul2{
+    width: 50px;
+    height: 60px;
+    border: dashed black 1px;
+}
+div.rosado{
+    width: 50px;
+    height: 60px;
+    border: dashed black 1px;
+}
+div.amarillo{
+    width: 50px;
+    height: 60px;
+    border: dashed black 1px;
+}
+div.verde{
+	 width: 50px;
+    height: 60px;
+    border: dashed black 1px;
+}
+.blanco{
+	width: 100px;
+    height: 60px;
+	background-color:white;
+	display:inline-block;
+	text-align:center;
+	vertical-align:top;
+	color:red;
+}
+.rojo{
+    background-color: white;
+    margin-left: 20px;
+    margin: 3px;
+    text-align: center;
+	color:red;
+}
+
+.azul{
+    background-color: #689bff;
+    margin-left: 20px;
+    margin: 0px;
+    text-align: center;
+}
+
+.rosado{
+    background-color: #FD9A98;
+    margin-left: 20px;
+    margin: 0px;
+    text-align: center;
+}
+.amarillo{
+    background-color: #e2d517;
+    margin-left: 20px;
+    margin: 0px;
+    text-align: center;
+}
+.verde{
+    background-color: green;
+    margin-left: 20px;
+    margin: 0px;
+    text-align: center;
+}
+.n{
+    line-height: 0px;
+    font-size: 10px;
+}
+.letra{
+    line-height: 0px;
+    font-size: 20px;
+}
+.numero{
+    line-height: 0px;
+    font-size: 10px;
+}
+
+
+
+
+
